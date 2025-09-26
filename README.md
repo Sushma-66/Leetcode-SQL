@@ -5,12 +5,9 @@ The goal is to **commit daily** and show consistent progress.
 
 ---
 
-## 🗓 Daily Log
+## 1 Daily Log
+1. Solving 2-7 leetcode SQL queries
+## 2 weekly Log
+2. Building business dashboards is my passion—I create one every week to sharpen my skills and deliver actionable insights
+   either by using Excel or PowerBI
 
-- **Day 01:** Set up GitHub profile + repo  
-- **Day 02:** Practiced SQL SELECT queries  
-- **Day 03:** Wrote Python script for data cleaning (pandas)  
-- **Day 04:** Built first Power BI bar chart (sales data)  
-- **Day 05:** SQL JOIN queries practice  
-- **Day 06:** Created matplotlib visualizations  
-...
