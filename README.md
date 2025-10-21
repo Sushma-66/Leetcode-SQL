@@ -9,37 +9,39 @@ It’s part of my journey to strengthen my SQL skills and deepen my understandin
 The LeetCode SQL 50 is a curated list of 50 SQL problems covering everything from basic queries to advanced analytical functions.
 I use this repository to:
 
-Track my progress
+* Track my progress
 
-Store my SQL solutions
+* Store my SQL solutions
 
-Revisit and optimize my code
+* Revisit and optimize my code
 
-Share learning insights with others
+* Share learning insights with others
+
 🧠 Concepts Covered
 
-Basic SELECT statements
+* Basic SELECT statements
 
-Filtering, sorting, and grouping
+* Filtering, sorting, and grouping
 
-Aggregate functions (COUNT, SUM, AVG, etc.)
+* Aggregate functions (COUNT, SUM, AVG, etc.)
 
-Joins (INNER, LEFT, RIGHT)
+* Joins (INNER, LEFT, RIGHT)
 
-Subqueries and CTEs
+* Subqueries and CTEs
 
-Window functions (RANK, DENSE_RANK, ROW_NUMBER)
+* Window functions (RANK, DENSE_RANK, ROW_NUMBER)
 
-Data aggregation and reporting
+* Data aggregation and reporting
+
 🌱 Learning Goals
 
-Strengthen SQL query writing
+* Strengthen SQL query writing
 
-Improve logical thinking with data
+* Improve logical thinking with data
 
-Build a solid foundation for data analysis, engineering, and BI tasks
+* Build a solid foundation for data analysis, engineering, and BI tasks
 
-Prepare for SQL interview questions
+* Prepare for SQL interview questions
 
 🤝 Contributions
 
